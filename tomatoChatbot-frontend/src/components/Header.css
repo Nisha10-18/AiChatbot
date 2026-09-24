@@ -1,0 +1,32 @@
+.header{
+    height:80px;
+    background:#d95b52;
+    color:white;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:0 25px;
+
+    flex-shrink:0;      /* Header fixed rahega */
+    position:sticky;    /* Top pe rahega */
+    top:0;
+    z-index:100;
+
+    .status{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    color:#fff;
+    font-size:14px;
+}
+
+.online-dot{
+    width:10px;
+    height:10px;
+    background:#22c55e;
+    border-radius:50%;
+    box-shadow:0 0 8px rgba(34,197,94,.7);
+}
+}
