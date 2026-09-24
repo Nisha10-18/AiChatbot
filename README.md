@@ -12,7 +12,7 @@ An AI-powered customer support chatbot built using **Spring Boot** and **React.j
 
 ---
 
-## ✨ Features
+## Features
 
 * 💬 Real-time AI chatbot interface
 * 🤖 AI-generated customer support responses
